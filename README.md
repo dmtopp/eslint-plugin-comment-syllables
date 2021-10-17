@@ -31,11 +31,11 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "comment-syllables/rule-name": 2
+        "comment-syllables/haiku-comments": 2
     }
 }
 ```
 
 ## Supported Rules
 
--   Fill in provided rules here
+- `comment-syllables/haiku-comments`: checks that multiline comments using `/* */` syntax are haikus
