@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-comment-syllables",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A for-fun plugin that checks if multiline comments are in a certain format (haiku, iambic pentameter, etc.)",
   "keywords": [
     "eslint",
